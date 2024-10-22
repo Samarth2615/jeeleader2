@@ -49,6 +49,7 @@ const validUsers = [
     { formNumber: '1000000000', name: 'RUDRANSH' },
     { formNumber: '10', name: 'VISHAL' },
     { formNumber: '1001', name: 'MAHI' },
+    { formNumber: '100', name: 'SAHIL' },
 ];
 
 // Serve the static HTML files
